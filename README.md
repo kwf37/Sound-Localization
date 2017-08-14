@@ -9,3 +9,4 @@
 * https://en.wikipedia.org/wiki/Animal_echolocation
 * https://l.messenger.com/l.php?u=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCross-correlation&h=ATMH5KJcnQyblmq4iZWQ7eS7lMaS2UPUXuEB7WAq_OHVjOj_bKsTW2LEesf-nPfGaaEQgv90Xkc1lZ_W34YdBfE3obAGTVPS70UtHJgJst3Tj98g49A0BPPkA-O0FjvKbeQF3SfOIOkIEwg
 * https://en.wikipedia.org/wiki/Human_echolocation#Mechanics
+* https://en.wikipedia.org/wiki/Acoustic_location
